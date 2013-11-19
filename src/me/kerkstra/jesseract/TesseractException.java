@@ -23,5 +23,4 @@ public class TesseractException extends Exception
 	{
 		super(cause);
 	}
-	
 }
