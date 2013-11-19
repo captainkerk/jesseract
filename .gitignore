@@ -22,7 +22,12 @@
 ehthumbs.db
 Thumbs.db
 <<<<<<< HEAD
+<<<<<<< HEAD
 .settings
+=======
+.project
+.settings/
+>>>>>>> 668886b7d4b095291384fce01eb94fd359ddb3da
 =======
 .project
 .settings/
